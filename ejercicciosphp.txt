@@ -1,0 +1,11 @@
+Ejercicios Básicos de PHP:
+ 1: Comprobar si un número es par o impar
+ 2: Imprimir una tabla de multiplicar
+ 3: Calcular el área de un círculo
+ 4: Calcular el factorial de un número
+ 5: Calcular el tiempo en caída libre de un cuerpo
+ 6: Convertir de temperatura Celsius a Fahrenheit
+ 7: Calcular la distancia recorrida por un cuerpo con aceleración
+ 8: Determinar si un año es bisiesto o no
+ 9: Generador de contraseñas
+ 10: Validación de formulario con datos (nombre y mail)
